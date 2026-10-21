@@ -1,3 +1,4 @@
+'use client'; 
 import dynamicIconImports from 'lucide-react/dynamicIconImports';
 
 // 1. Define semantic keys for your application's UI

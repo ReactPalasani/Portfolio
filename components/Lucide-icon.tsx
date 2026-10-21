@@ -1,3 +1,4 @@
+'use client'; 
 import React, { ComponentProps } from 'react';
 import dynamic from 'next/dynamic';
 import dynamicIconImports from 'lucide-react/dynamicIconImports';
